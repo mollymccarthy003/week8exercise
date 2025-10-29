@@ -1,0 +1,5 @@
+[INFO ] 2025-10-29 12:04:51.763 [main] PropertiesLoader - Successfully loaded properties from /petstore.properties
+[INFO ] 2025-10-29 12:05:38.186 [main] PropertiesLoader - Successfully loaded properties from /petstore.properties
+[INFO ] 2025-10-29 12:05:47.560 [main] PropertiesLoader - Successfully loaded properties from /petstore.properties
+[INFO ] 2025-10-29 12:08:09.167 [main] PropertiesLoader - Successfully loaded properties from /petstore.properties
+[INFO ] 2025-10-29 12:08:10.343 [main] PetStoreDAO - Successfully fetched pet with ID 1
